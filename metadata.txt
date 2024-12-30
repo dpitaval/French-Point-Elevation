@@ -1,0 +1,17 @@
+[general]
+name=French Point Elevation
+description=Récupère l'altitude à partir du RGE ALTI® (IGN, FRANCE)
+about=Ce plugin permet de récupérer l'altitude d'une couche de point existante ou en cliquant sur le canvas carte via les services de la la Géoplateforme de calcul altimétrique fourni par l'IGN.
+version=1.0.0
+qgisMinimumVersion=3.0
+author=David Pitaval
+email=d.pitaval@groupeginger.com
+repository=URL to the code repository
+supportsQt6=False
+
+changelog=
+ Version 1.0.0:
+ * Initial release 28/12/2024
+
+# Tags are comma separated with spaces allowed
+tags=France, Altitude, RGE Alti®, Elevation
