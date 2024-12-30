@@ -6,7 +6,9 @@ version=1.0.0
 qgisMinimumVersion=3.0
 author=David Pitaval
 email=d.pitaval@groupeginger.com
-repository=URL to the code repository
+homepage=https://github.com/dpitaval/French-Point-Elevation
+repository=https://github.com/dpitaval/French-Point-Elevation
+tracker=https://github.com/dpitaval/French-Point-Elevation/issues
 supportsQt6=False
 
 changelog=
