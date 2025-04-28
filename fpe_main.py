@@ -200,7 +200,7 @@ class FrenchPointElevation:
             y = point.y()
             z = datas["elevations"][0]
             coords = f'x : {x}, y : {y}, z = {z}'
-            QMessageBox.information(None, PLUGIN_NAME, f'Ressource = ign_rge_alti_wld <br> {coords}')
+            QMessageBox.information(None, PLUGIN_NAME, f'{coords} <br> Ressource = ign_rge_alti_wld')
             clipboard = QApplication.clipboard()
             clipboard.setText(str(x) + ' ' + str(y) + ' ' + str(z))
             self.iface.messageBar().clearWidgets()
